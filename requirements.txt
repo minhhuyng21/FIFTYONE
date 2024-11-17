@@ -1,0 +1,5 @@
+fiftyone
+numpy
+torch 
+torchvision 
+torchaudio
